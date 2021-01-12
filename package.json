@@ -8,10 +8,6 @@
     "dev":"nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/L3NNYN/lumina.git"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
