@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "lumina"
+    "url": "git+https://github.com/L3NNYN/lumina.git"
   },
   "author": "",
   "license": "ISC",
